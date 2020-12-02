@@ -1,8 +1,5 @@
 package Pages.Engine;
 
-
-import lombok.Getter;
-
 public abstract class Engine {
     protected double amountLeft;
 
